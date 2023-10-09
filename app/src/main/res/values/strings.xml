@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Android23</string>
+    <string name="second_fragment">SECOND FRAGMENT</string>
+    <string name="third_fragment">THIRD FRAGMENT</string>
+    <string name="back">BACK</string>
+    <string name="forward">FORWARD</string>
+    <string name="button">Button</string>
+    <string name="android23">Android23</string>
+    <string name="something">something...</string>
 </resources>

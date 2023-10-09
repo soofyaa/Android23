@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.itis.android23"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.itis.android23"
