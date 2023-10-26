@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Android23</string>
+    <string name="extra_numbers">You are entering extra numbers.</string>
+    <string name="regex_is_phone_need_format">^\\+7 \\(9(\\d(\\d\\)-(\\d(\\d(\\d-(\\d(\\d-(\\d{0,2})?)?)?)?)?)?)?)?$</string>
+    <string name="regex_is_valid_phone_number">^\\+7 \\(\\d{3}\\)-\\d{3}-\\d{2}-\\d{2}$</string>
+    <string name="valid_questions_count">You can choose from 1 to 10 questions</string>
+    <string name="finish">Finish</string>
+    <string name="count_of_questions">Count of questions</string>
+    <string name="start">Start</string>
+    <string name="phone_number">Phone number</string>
 </resources>
