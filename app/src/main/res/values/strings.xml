@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Android23</string>
+    <string name="your_phone">Your Phone: %s</string>
+    <string name="your_name">Your Name: %s</string>
+    <string name="your_email">Your Email: %s</string>
+    <string name="user_with_this_email_already_exists">User with this email already exists</string>
+    <string name="user_with_this_phone_already_exists">User with this phone already exists</string>
+    <string name="user_added_to_the_database">User added to the database</string>
+    <string name="you_have_logged_out_of_your_account">You have logged out of your account.</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="are_you_sure_you_want_to_delete_your_account_this_action_cannot_be_undone">Are you sure you want to delete your account? This action cannot be undone.</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="user_not_found">User not found</string>
+    <string name="movie_saved">Movie saved</string>
+    <string name="the_movie_with_the_same_title_and_release_year_already_exists">The movie with the same title and release year already exists</string>
+
 </resources>
